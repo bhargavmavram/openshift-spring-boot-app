@@ -14,7 +14,11 @@
 	<name>demo</name>
 	<description>Demo project for Spring Boot Openshift</description>
 	<properties>
+<<<<<<< HEAD
 		<java.version>1.8</java.version> 
+=======
+		<java.version>1.8</java.version>
+>>>>>>> 79df2e54329015ca82aca29971cbb9c430d4da6f
 	</properties>
 	<dependencies>
 		<dependency>
